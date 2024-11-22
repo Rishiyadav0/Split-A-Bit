@@ -32,6 +32,9 @@ View detailed breakdowns for each group.
 
 **Tech Stack**
 Backend: Django (Python)
+
 Frontend: HTML, CSS (Django Templating System)
+
 Database: SQLite (default Django database, configurable for others)
+
 Email Integration: Django's email framework for notifications
